@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jackh54
+- 👀 I’m interested in *everything*
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me contact@pandadevv.dev
+- ⚡ Fun fact: I started coding when i was 7!
