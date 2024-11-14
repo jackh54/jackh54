@@ -32,7 +32,7 @@ I started coding when I was just **7 years old**, and I've been creating and cod
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackh54&theme=tokyonight" alt="mystreak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jackh54&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  
 </p>
 
 ---
@@ -46,6 +46,7 @@ I started coding when I was just **7 years old**, and I've been creating and cod
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jackh54&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 ---
 
 ### 🌐 Let's Connect
