@@ -1,28 +1,9 @@
-# 👋 Jack (@jackh54)
 
-I'm a developer focused on building modern web applications with clean, scalable architecture.
 
----
+### Contact
 
-### 🧠 Current Focus
-
-* Frontend development (React, JavaScript, TypeScript)
-* Backend development (Java, Node.js)
-
----
-
-### 🤝 Open to Collaboration On
-
-* Open-source projects
-* Full-stack applications
-* Tools for developers
-
----
-
-### 📫 Contact
-
-**Email:** [contact@pandadevv.dev](mailto:contact@pandadevv.dev)
-**Website:** [pandadevv.dev](https://pandadevv.dev)
+**Email:** [contact@jackh.org](mailto:contact@jackh.org)
+**Website:** [jackh.org](https://jackh.org)
 
 ---
 
@@ -37,7 +18,7 @@ I'm a developer focused on building modern web applications with clean, scalable
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackh54&theme=tokyonight" alt="Streak Stats"/>
