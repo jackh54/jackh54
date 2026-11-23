@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://jackh.org"><img src="https://img.shields.io/badge/jackh.org-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7" alt="Website"/></a>
-  <a href="https://pandadevv.dev"><img src="https://img.shields.io/badge/pandadevv.dev-1a1b27?style=for-the-badge&logo=cloudflare&logoColor=f38020" alt="PandaScript"/></a>
+  <a href="https://pandascript.dev"><img src="https://img.shields.io/badge/pandascript.dev-1a1b27?style=for-the-badge&logo=cloudflare&logoColor=f38020" alt="PandaScript"/></a>
   <a href="mailto:contact@jackh.org"><img src="https://img.shields.io/badge/contact@jackh.org-1a1b27?style=for-the-badge&logo=maildotru&logoColor=bb9af7" alt="Email"/></a>
 </p>
 
