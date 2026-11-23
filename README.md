@@ -1,28 +1,42 @@
-
-
-### Contact
-
-**Email:** [contact@jackh.org](mailto:contact@jackh.org)
-**Website:** [jackh.org](https://jackh.org)
-
----
-
-### ⚙️ Tools & Technologies
-
-![Java](https://img.shields.io/badge/-Java-007396?logo=java\&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js\&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white)
-
----
-
-### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackh54&theme=tokyonight" alt="Streak Stats"/>
-  <br>
+  <img src="./assets/header.svg" alt="Jack H — full-stack dev" width="100%"/>
 </p>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<p align="center">
+  <a href="https://jackh.org"><img src="https://img.shields.io/badge/jackh.org-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7" alt="Website"/></a>
+  <a href="https://pandadevv.dev"><img src="https://img.shields.io/badge/pandadevv.dev-1a1b27?style=for-the-badge&logo=cloudflare&logoColor=f38020" alt="PandaScript"/></a>
+  <a href="mailto:contact@jackh.org"><img src="https://img.shields.io/badge/contact@jackh.org-1a1b27?style=for-the-badge&logo=maildotru&logoColor=bb9af7" alt="Email"/></a>
+</p>
+
+---
+
+### 🛠️ What I build
+
+I run **PandaScript**, a small freelance shop. Most of my work is edge backends on Cloudflare Workers, extensions for the Pterodactyl panel, and Minecraft server tooling. I also make iOS apps and self-host most of what I use.
+
+### 📌 Featured
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**pterodactyl-panel-mcp**](https://github.com/jackh54/pterodactyl-panel-mcp) | An MCP server that runs inside the Pterodactyl panel, so Claude, ChatGPT or Cursor can manage your servers | PHP |
+| [**pterodactyl-panel-passkeys**](https://github.com/jackh54/pterodactyl-panel-passkeys) | Passkey sign-in for Pterodactyl (Face ID, Touch ID, Windows Hello) | PHP · WebAuthn |
+| [**cirrus-mail**](https://github.com/jackh54/cirrus-mail) | A self-hosted email suite that runs on your own Cloudflare account | TypeScript · Workers · D1 · R2 |
+| [**VelocityShield**](https://github.com/jackh54/VelocityShield) | Detects and blocks VPNs on Velocity proxies | Java |
+| [**VoiceSentinel**](https://github.com/jackh54/VoiceSentinel) | Voice chat moderation for Minecraft | Python |
+| [**crawlytree**](https://github.com/jackh54/crawlytree) | A web crawler | Python |
+
+### ⚙️ Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,go,swift,react,nodejs,cloudflare,mysql,postgres,sqlite,docker,linux,githubactions&theme=dark&perline=15" alt="Tech stack"/>
+</p>
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackh54&theme=tokyonight&hide_border=true&background=0b1020" alt="Streak stats"/>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+</p>
