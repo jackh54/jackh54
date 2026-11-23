@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#131a33"/></linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bb9af7" stop-opacity="0.35"/><stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/></linearGradient>
+    <clipPath id="bar"><rect x="600" y="92" width="260" height="10" rx="5"/></clipPath>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+      .fade{opacity:0;animation:fade .6s ease-out forwards}
+      @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+      .draw{stroke-dasharray:2000;stroke-dashoffset:2000;animation:draw 2.2s ease-out .3s forwards}
+      @keyframes draw{to{stroke-dashoffset:0}}
+      .area{opacity:0;animation:fade 1s ease-out 1.6s forwards}
+      .flame{animation:pulse 1.4s ease-in-out infinite alternate;transform-origin:center;transform-box:fill-box}
+      @keyframes pulse{from{transform:scale(.9)}to{transform:scale(1.1)}}
+    </style>
+  </defs>
+  <rect width="900" height="300" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="299" rx="16" fill="none" stroke="#7aa2f7" stroke-opacity="0.12"/>
+
+  <text x="40" y="44" class="mono" font-size="13" fill="#7aa2f7">$ <tspan fill="#a9b1d6">gh stats jackh54</tspan></text>
+
+  
+  <g class="fade" style="animation-delay:0s">
+    <text x="40" y="98" class="sans" font-size="34" font-weight="800" fill="#c0caf5">3,575</text>
+    <text x="40" y="122" class="mono" font-size="12" fill="#565f89">total contributions</text>
+  </g>
+  
+  <g class="fade" style="animation-delay:0.1s">
+    <text x="220" y="98" class="sans" font-size="34" font-weight="800" fill="#bb9af7">27<tspan class="flame" font-size="26"> 🔥</tspan></text>
+    <text x="220" y="122" class="mono" font-size="12" fill="#565f89">current streak (days)</text>
+  </g>
+  
+  <g class="fade" style="animation-delay:0.2s">
+    <text x="400" y="98" class="sans" font-size="34" font-weight="800" fill="#7aa2f7">27</text>
+    <text x="400" y="122" class="mono" font-size="12" fill="#565f89">longest streak (days)</text>
+  </g>
+
+  <text x="40" y="186" class="mono" font-size="12" fill="#565f89">last 52 weeks · 2,697 contributions</text>
+  <path d="M40.0 266.5 L49.8 268.4 L59.6 268.2 L69.4 269.8 L79.2 269.3 L89.0 266.5 L98.8 268.9 L108.6 268.0 L118.4 269.8 L128.2 270.0 L138.0 270.0 L147.8 268.7 L157.6 269.1 L167.5 269.6 L177.3 270.0 L187.1 267.1 L196.9 270.0 L206.7 260.5 L216.5 266.9 L226.3 264.7 L236.1 268.9 L245.9 270.0 L255.7 260.5 L265.5 267.3 L275.3 269.3 L285.1 267.3 L294.9 270.0 L304.7 252.5 L314.5 262.7 L324.3 256.9 L334.1 250.7 L343.9 251.8 L353.7 237.0 L363.5 242.8 L373.3 265.6 L383.1 260.9 L392.9 262.5 L402.7 256.5 L412.5 263.8 L422.4 264.5 L432.2 264.2 L442.0 264.7 L451.8 260.0 L461.6 262.0 L471.4 255.2 L481.2 247.6 L491.0 229.7 L500.8 237.4 L510.6 231.7 L520.4 217.3 L530.2 200.0 L540.0 209.3 L540 270 L40 270 Z" fill="url(#fill)" class="area"/>
+  <path d="M40.0 266.5 L49.8 268.4 L59.6 268.2 L69.4 269.8 L79.2 269.3 L89.0 266.5 L98.8 268.9 L108.6 268.0 L118.4 269.8 L128.2 270.0 L138.0 270.0 L147.8 268.7 L157.6 269.1 L167.5 269.6 L177.3 270.0 L187.1 267.1 L196.9 270.0 L206.7 260.5 L216.5 266.9 L226.3 264.7 L236.1 268.9 L245.9 270.0 L255.7 260.5 L265.5 267.3 L275.3 269.3 L285.1 267.3 L294.9 270.0 L304.7 252.5 L314.5 262.7 L324.3 256.9 L334.1 250.7 L343.9 251.8 L353.7 237.0 L363.5 242.8 L373.3 265.6 L383.1 260.9 L392.9 262.5 L402.7 256.5 L412.5 263.8 L422.4 264.5 L432.2 264.2 L442.0 264.7 L451.8 260.0 L461.6 262.0 L471.4 255.2 L481.2 247.6 L491.0 229.7 L500.8 237.4 L510.6 231.7 L520.4 217.3 L530.2 200.0 L540.0 209.3" fill="none" stroke="url(#ac)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" class="draw"/>
+  <line x1="40" y1="270.5" x2="540" y2="270.5" stroke="#565f89" stroke-opacity="0.3"/>
+
+  <line x1="570" y1="40" x2="570" y2="260" stroke="#565f89" stroke-opacity="0.25"/>
+  <text x="600" y="72" class="mono" font-size="13" fill="#7aa2f7">top languages</text>
+  <g clip-path="url(#bar)"><rect x="600" y="92" width="260" height="10" fill="#1f2335"/><rect x="600.0" y="92" width="90.2" height="10" fill="#3178c6"/><rect x="690.2" y="92" width="66.2" height="10" fill="#00ADD8"/><rect x="756.3" y="92" width="44.5" height="10" fill="#b07219"/><rect x="800.8" y="92" width="25.7" height="10" fill="#F05138"/><rect x="826.5" y="92" width="16.9" height="10" fill="#f1e05a"/><rect x="843.4" y="92" width="16.6" height="10" fill="#3572A5"/></g>
+  <g class="fade" style="animation-delay:0.2s"><circle cx="605" cy="126" r="5" fill="#3178c6"/>
+    <text x="616" y="130" class="sans" font-size="13" fill="#a9b1d6">TypeScript <tspan fill="#565f89">34.7%</tspan></text></g><g class="fade" style="animation-delay:0.30000000000000004s"><circle cx="740" cy="126" r="5" fill="#00ADD8"/>
+    <text x="751" y="130" class="sans" font-size="13" fill="#a9b1d6">Go <tspan fill="#565f89">25.4%</tspan></text></g><g class="fade" style="animation-delay:0.4s"><circle cx="605" cy="152" r="5" fill="#b07219"/>
+    <text x="616" y="156" class="sans" font-size="13" fill="#a9b1d6">Java <tspan fill="#565f89">17.1%</tspan></text></g><g class="fade" style="animation-delay:0.5s"><circle cx="740" cy="152" r="5" fill="#F05138"/>
+    <text x="751" y="156" class="sans" font-size="13" fill="#a9b1d6">Swift <tspan fill="#565f89">9.9%</tspan></text></g><g class="fade" style="animation-delay:0.6000000000000001s"><circle cx="605" cy="178" r="5" fill="#f1e05a"/>
+    <text x="616" y="182" class="sans" font-size="13" fill="#a9b1d6">JavaScript <tspan fill="#565f89">6.5%</tspan></text></g><g class="fade" style="animation-delay:0.7s"><circle cx="740" cy="178" r="5" fill="#3572A5"/>
+    <text x="751" y="182" class="sans" font-size="13" fill="#a9b1d6">Python <tspan fill="#565f89">6.4%</tspan></text></g>
+
+  <text x="870" y="282" text-anchor="end" class="mono" font-size="10" fill="#3b4261">updated 2026-11-23</text>
+</svg>
