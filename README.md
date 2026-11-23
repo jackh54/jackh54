@@ -34,9 +34,15 @@ I run **PandaScript**, a small freelance shop. Most of my work is edge backends 
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackh54&theme=tokyonight&hide_border=true&background=0b1020" alt="Streak stats"/>
+  <img src="./assets/stats.svg" alt="GitHub stats" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+  <img src="./assets/snake.svg" alt="Snake eating my contribution graph" width="100%"/>
 </p>
+
+<details>
+  <summary><b>3D contribution graph</b></summary>
+  <br>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%"/>
+</details>

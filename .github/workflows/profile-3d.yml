@@ -11,13 +11,33 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: generate-profile-assets
     steps:
       - uses: actions/checkout@v4
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           USERNAME: ${{ github.repository_owner }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Stats card
+        run: node scripts/stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+          outputs: |
+            assets/snake.svg?palette=github-dark&color_snake=#bb9af7&color_dots=#161b22,#1f2a4d,#3d59a1,#7aa2f7,#bb9af7
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
