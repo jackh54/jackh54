@@ -23,23 +23,23 @@
 
   
   <g class="fade" style="animation-delay:0s">
-    <text x="40" y="98" class="sans" font-size="34" font-weight="800" fill="#c0caf5">3,614</text>
+    <text x="40" y="98" class="sans" font-size="34" font-weight="800" fill="#c0caf5">3,617</text>
     <text x="40" y="122" class="mono" font-size="12" fill="#565f89">total contributions</text>
   </g>
   
   <g class="fade" style="animation-delay:0.1s">
-    <text x="220" y="98" class="sans" font-size="34" font-weight="800" fill="#bb9af7">30<tspan class="flame" font-size="26"> 🔥</tspan></text>
+    <text x="220" y="98" class="sans" font-size="34" font-weight="800" fill="#bb9af7">31<tspan class="flame" font-size="26"> 🔥</tspan></text>
     <text x="220" y="122" class="mono" font-size="12" fill="#565f89">current streak (days)</text>
   </g>
   
   <g class="fade" style="animation-delay:0.2s">
-    <text x="400" y="98" class="sans" font-size="34" font-weight="800" fill="#7aa2f7">30</text>
+    <text x="400" y="98" class="sans" font-size="34" font-weight="800" fill="#7aa2f7">31</text>
     <text x="400" y="122" class="mono" font-size="12" fill="#565f89">longest streak (days)</text>
   </g>
 
-  <text x="40" y="186" class="mono" font-size="12" fill="#565f89">last 52 weeks · 2,726 contributions</text>
-  <path d="M40.0 268.0 L49.8 269.6 L59.6 268.4 L69.4 270.0 L79.2 266.6 L89.0 270.0 L98.8 267.5 L108.6 270.0 L118.4 269.8 L128.2 270.0 L138.0 270.0 L147.8 268.2 L157.6 269.8 L167.5 269.8 L177.3 268.0 L187.1 269.6 L196.9 262.9 L206.7 268.6 L216.5 264.0 L226.3 268.9 L236.1 270.0 L245.9 263.9 L255.7 266.9 L265.5 268.9 L275.3 267.6 L285.1 270.0 L294.9 267.8 L304.7 256.6 L314.5 261.3 L324.3 249.7 L334.1 255.9 L343.9 247.2 L353.7 245.6 L363.5 263.5 L373.3 265.5 L383.1 261.5 L392.9 261.5 L402.7 263.5 L412.5 264.4 L422.4 267.5 L432.2 263.7 L442.0 259.5 L451.8 267.6 L461.6 265.1 L471.4 249.9 L481.2 241.6 L491.0 247.0 L500.8 242.3 L510.6 230.7 L520.4 223.7 L530.2 200.0 L540.0 247.0 L540 270 L40 270 Z" fill="url(#fill)" class="area"/>
-  <path d="M40.0 268.0 L49.8 269.6 L59.6 268.4 L69.4 270.0 L79.2 266.6 L89.0 270.0 L98.8 267.5 L108.6 270.0 L118.4 269.8 L128.2 270.0 L138.0 270.0 L147.8 268.2 L157.6 269.8 L167.5 269.8 L177.3 268.0 L187.1 269.6 L196.9 262.9 L206.7 268.6 L216.5 264.0 L226.3 268.9 L236.1 270.0 L245.9 263.9 L255.7 266.9 L265.5 268.9 L275.3 267.6 L285.1 270.0 L294.9 267.8 L304.7 256.6 L314.5 261.3 L324.3 249.7 L334.1 255.9 L343.9 247.2 L353.7 245.6 L363.5 263.5 L373.3 265.5 L383.1 261.5 L392.9 261.5 L402.7 263.5 L412.5 264.4 L422.4 267.5 L432.2 263.7 L442.0 259.5 L451.8 267.6 L461.6 265.1 L471.4 249.9 L481.2 241.6 L491.0 247.0 L500.8 242.3 L510.6 230.7 L520.4 223.7 L530.2 200.0 L540.0 247.0" fill="none" stroke="url(#ac)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" class="draw"/>
+  <text x="40" y="186" class="mono" font-size="12" fill="#565f89">last 52 weeks · 2,727 contributions</text>
+  <path d="M40.0 267.9 L49.8 268.7 L59.6 269.6 L69.4 270.0 L79.2 266.4 L89.0 270.0 L98.8 267.4 L108.6 269.8 L118.4 270.0 L128.2 270.0 L138.0 269.4 L147.8 268.7 L157.6 269.8 L167.5 269.8 L177.3 267.6 L187.1 270.0 L196.9 262.7 L206.7 268.5 L216.5 263.8 L226.3 268.9 L236.1 270.0 L245.9 262.3 L255.7 267.6 L265.5 269.2 L275.3 267.7 L285.1 270.0 L294.9 264.7 L304.7 258.5 L314.5 261.3 L324.3 249.1 L334.1 253.4 L343.9 245.0 L353.7 243.7 L363.5 266.4 L373.3 263.4 L383.1 263.8 L392.9 256.6 L402.7 267.9 L412.5 261.7 L422.4 269.6 L432.2 263.2 L442.0 259.1 L451.8 266.4 L461.6 260.8 L471.4 254.8 L481.2 237.8 L491.0 238.4 L500.8 249.7 L510.6 221.1 L520.4 223.9 L530.2 200.0 L540.0 250.6 L540 270 L40 270 Z" fill="url(#fill)" class="area"/>
+  <path d="M40.0 267.9 L49.8 268.7 L59.6 269.6 L69.4 270.0 L79.2 266.4 L89.0 270.0 L98.8 267.4 L108.6 269.8 L118.4 270.0 L128.2 270.0 L138.0 269.4 L147.8 268.7 L157.6 269.8 L167.5 269.8 L177.3 267.6 L187.1 270.0 L196.9 262.7 L206.7 268.5 L216.5 263.8 L226.3 268.9 L236.1 270.0 L245.9 262.3 L255.7 267.6 L265.5 269.2 L275.3 267.7 L285.1 270.0 L294.9 264.7 L304.7 258.5 L314.5 261.3 L324.3 249.1 L334.1 253.4 L343.9 245.0 L353.7 243.7 L363.5 266.4 L373.3 263.4 L383.1 263.8 L392.9 256.6 L402.7 267.9 L412.5 261.7 L422.4 269.6 L432.2 263.2 L442.0 259.1 L451.8 266.4 L461.6 260.8 L471.4 254.8 L481.2 237.8 L491.0 238.4 L500.8 249.7 L510.6 221.1 L520.4 223.9 L530.2 200.0 L540.0 250.6" fill="none" stroke="url(#ac)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" class="draw"/>
   <line x1="40" y1="270.5" x2="540" y2="270.5" stroke="#565f89" stroke-opacity="0.3"/>
 
   <line x1="570" y1="40" x2="570" y2="260" stroke="#565f89" stroke-opacity="0.25"/>
@@ -53,5 +53,5 @@
     <text x="616" y="182" class="sans" font-size="13" fill="#a9b1d6">JavaScript <tspan fill="#565f89">6.5%</tspan></text></g><g class="fade" style="animation-delay:0.7s"><circle cx="740" cy="178" r="5" fill="#3572A5"/>
     <text x="751" y="182" class="sans" font-size="13" fill="#a9b1d6">Python <tspan fill="#565f89">6.4%</tspan></text></g>
 
-  <text x="870" y="282" text-anchor="end" class="mono" font-size="10" fill="#3b4261">updated 2026-11-27</text>
+  <text x="870" y="282" text-anchor="end" class="mono" font-size="10" fill="#3b4261">updated 2026-11-28</text>
 </svg>
